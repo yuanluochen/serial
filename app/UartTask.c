@@ -11,8 +11,6 @@
 
 #include "UartTask.h"
 
-static GetKeyBoardData(Uart_t* UartGetKeyBoardData);
-static GetData(Uart_t* UartGetData);
 
 //串口发送数据结构体
 Uart_t UartTx;
@@ -23,13 +21,8 @@ void* UartTask(void* param)
     //初始化串口结构体
     while(1)
     {
-        //获取要发送的数据
-
+        
         sleep(1);
     }   
 }
 
-//获取数据
-static GetData(Uart_t* UartGetData)
-{
-}

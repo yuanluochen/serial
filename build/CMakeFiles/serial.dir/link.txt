@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/serial.dir/app/DataControl.c.o CMakeFiles/serial.dir/app/UartTask.c.o CMakeFiles/serial.dir/app/thread.c.o CMakeFiles/serial.dir/hardware/serial.c.o CMakeFiles/serial.dir/main.c.o -o serial

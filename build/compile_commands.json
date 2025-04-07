@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yuanluochen/code/serial/build",
+  "command": "/usr/bin/cc  -I/home/yuanluochen/code/serial/include -g -o CMakeFiles/serial.dir/app/DataControl.c.o -c /home/yuanluochen/code/serial/app/DataControl.c",
+  "file": "/home/yuanluochen/code/serial/app/DataControl.c",
+  "output": "CMakeFiles/serial.dir/app/DataControl.c.o"
+},
+{
+  "directory": "/home/yuanluochen/code/serial/build",
+  "command": "/usr/bin/cc  -I/home/yuanluochen/code/serial/include -g -o CMakeFiles/serial.dir/app/UartTask.c.o -c /home/yuanluochen/code/serial/app/UartTask.c",
+  "file": "/home/yuanluochen/code/serial/app/UartTask.c",
+  "output": "CMakeFiles/serial.dir/app/UartTask.c.o"
+},
+{
+  "directory": "/home/yuanluochen/code/serial/build",
+  "command": "/usr/bin/cc  -I/home/yuanluochen/code/serial/include -g -o CMakeFiles/serial.dir/app/thread.c.o -c /home/yuanluochen/code/serial/app/thread.c",
+  "file": "/home/yuanluochen/code/serial/app/thread.c",
+  "output": "CMakeFiles/serial.dir/app/thread.c.o"
+},
+{
+  "directory": "/home/yuanluochen/code/serial/build",
+  "command": "/usr/bin/cc  -I/home/yuanluochen/code/serial/include -g -o CMakeFiles/serial.dir/hardware/serial.c.o -c /home/yuanluochen/code/serial/hardware/serial.c",
+  "file": "/home/yuanluochen/code/serial/hardware/serial.c",
+  "output": "CMakeFiles/serial.dir/hardware/serial.c.o"
+},
+{
+  "directory": "/home/yuanluochen/code/serial/build",
+  "command": "/usr/bin/cc  -I/home/yuanluochen/code/serial/include -g -o CMakeFiles/serial.dir/main.c.o -c /home/yuanluochen/code/serial/main.c",
+  "file": "/home/yuanluochen/code/serial/main.c",
+  "output": "CMakeFiles/serial.dir/main.c.o"
+}
+]

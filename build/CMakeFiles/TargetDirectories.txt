@@ -1,0 +1,3 @@
+/home/yuanluochen/code/serial/build/CMakeFiles/serial.dir
+/home/yuanluochen/code/serial/build/CMakeFiles/edit_cache.dir
+/home/yuanluochen/code/serial/build/CMakeFiles/rebuild_cache.dir
